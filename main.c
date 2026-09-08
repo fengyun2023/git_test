@@ -8,6 +8,7 @@ int main()
         printf("hello world \r\n");
         printf("are you ok \r\n");
         printf("git_test_finish \r\n");
+        printf("git_conflict_test \r\n");
     }
 }
 
